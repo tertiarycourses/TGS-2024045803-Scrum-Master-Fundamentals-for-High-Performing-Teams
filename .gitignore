@@ -1,0 +1,12 @@
+.env
+.DS_Store
+.claude/
+assessment/
+reference/
+courseware/build/
+courseware/archive/
+courseware/qa/
+tmp/
+__pycache__/
+*.pyc
+.playwright-mcp/

@@ -1,0 +1,51 @@
+{
+  "version": "v6.0",
+  "topics": {
+    "1": {
+      "start": 16,
+      "end": 38
+    },
+    "2": {
+      "start": 40,
+      "end": 63
+    },
+    "3": {
+      "start": 64,
+      "end": 88
+    },
+    "4": {
+      "start": 90,
+      "end": 116
+    },
+    "5": {
+      "start": 117,
+      "end": 140
+    }
+  },
+  "activities": {
+    "01": 37,
+    "02": 61,
+    "03": 62,
+    "04": 85,
+    "05": 86,
+    "06": 87,
+    "07": 114,
+    "08": 115,
+    "09": 138,
+    "10": 139
+  },
+  "charts": {
+    "burndown": 111,
+    "burnup": 112,
+    "cycle_time": 113
+  },
+  "total_slides": 149,
+  "administration": {
+    "start": 1,
+    "end": 15
+  },
+  "integration": {
+    "start": 141,
+    "end": 149
+  }
+}
