@@ -6,11 +6,20 @@
 
 Public learner resources for the two-day WSQ course **Scrum Master Fundamentals for High-Performing Teams**, developed by Tertiary Infotech Academy Pte. Ltd.
 
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2024045803` |
+| Programme | WSQ |
+| Duration | 2 days / 16 hours |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-scrum-master-fundamentals-for-high-performing-teams.html) |
+| Funding | Up to 70% course fee funding: 50% baseline for Singapore Citizens and PRs aged 21+, up to 70% for Singapore Citizens aged 40+ (MCES) and SME-sponsored employees. Eligibility and terms apply; see the course page for current fees. |
+| Provider | Tertiary Infotech Academy Pte Ltd (UEN 201200696W) |
+
 ![Courseware preview](screenshot.png)
 
 ## What is included
 
-- A 149-slide, concept-led trainer deck in PowerPoint and PDF
+- A 150-slide, concept-led trainer deck in PowerPoint and PDF
 - A detailed Learner Guide with activity procedures and evidence requirements
 - A two-day Lesson Plan aligned to the five learning outcomes
 - Ten self-contained activity packs with PDF guidance, Excel worksheets, checklists, scenarios, and mock data
